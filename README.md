@@ -2,10 +2,10 @@
 
 <table>
   
-**In this project we'll be using the short story An Occurrence at Owl Creek Bridge by Ambrose Bierce (1890).The story is in the public domain; the text file was obtained from Project Gutenberg.We will use Spacy with Python to do an amazing stuff in Natural Language Processing.** <br></br>
+**In this project we'll be using the short story An Occurrence at Owl Creek Bridge by Ambrose Bierce (1890).The story is in the public domain; the text file was obtained from Project Gutenberg. We will use Spacy with Python to do an amazing stuff in Natural Language Processing.** <br></br>
 
 
-**Before jumping to the code lets understand PDF files and Spacy library and NLP(Natural Language Processing) First**...<br></br>
+**Before jumping to the code lets understand  Spacy library and NLP(Natural Language Processing) First**...<br></br>
 
 **What is spaCy?** <br></br>
 
