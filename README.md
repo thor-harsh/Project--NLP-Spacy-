@@ -1,20 +1,15 @@
 # Project--NLP-Spacy
+
 <table>
   
-For this project we'll be using the short story An Occurrence at Owl Creek Bridge by Ambrose Bierce (1890).
-The story is in the public domain; the text file was obtained from Project Gutenberg.
+**In this project we'll be using the short story An Occurrence at Owl Creek Bridge by Ambrose Bierce (1890).The story is in the public domain; the text file was obtained from Project Gutenberg.We will use Spacy with Python to do an amazing stuff in Natural Language Processing.** <br></br>
 
 
-**In this project We will use PyPdf2 with Python to do an amazing stuff.Here we will work how PyPdf2 library works for working with pdf files in Natural Language Processing.** <br></br>
+**Before jumping to the code lets understand PDF files and Spacy library and NLP(Natural Language Processing) First**...<br></br>
 
+**What is spaCy?** <br></br>
 
-**Before jumping to the code lets understand PDF files and PyPDF2 library and NLP(Natural Language Processing) First**...<br></br>
-
-**What is PDF and PyPDF2?** <br></br>
-
-PDF stands for Portable Document Format, is distinguished by its .pdf file extension. This format is predominantly utilized for document sharing due to its inherent property of preserving the original formatting, ensuring that documents appear consistent across various platforms, irrespective of the hardware, software, or operating system used. This consistency makes PDFs the format of choice for distributing, viewing, and ensuring the integrity of documents on a global scale.<br></br>
-
-Originally developed by Adobe, PDF has transcended its proprietary origins to become an open standard, governed by the International Organization for Standardization (ISO). This transition to an ISO standard has further cemented PDF’s position as a cornerstone of digital document management, facilitating its adoption in a wide range of applications from academic publishing to business communications<br></br>
+spaCy is an open-source software library for advanced natural language processing, written in the programming languages Python and Cython. The library is published under the MIT license and its main developers are Matthew Honnibal and Ines Montani, the founders of the software company Explosion.<br></br>
 
 
 **What is (NLP)Natural Language Processing**?<br></br>
@@ -25,7 +20,7 @@ NLP combines computational linguistics—rule-based modeling of human language�
 
 NLP drives computer programs that translate text from one language to another, respond to spoken commands, and summarize large volumes of text rapidly—even in real time. There’s a good chance you’ve interacted with NLP in the form of voice-operated GPS systems, digital assistants, speech-to-text dictation software, customer service chatbots, and other consumer conveniences. But NLP also plays a growing role in enterprise solutions that help streamline business operations, increase employee productivity, and simplify mission-critical business processes.<br></br>
 
-**Important Note: Go through the different pdf files and text files before jumping to the code.**
+**Important Note: Go through the text file before jumping to the code.**
 
 
 </table>
